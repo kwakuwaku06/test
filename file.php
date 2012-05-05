@@ -6,5 +6,4 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
 
- echo 'this is php';
- 
+echo 'this is php';
